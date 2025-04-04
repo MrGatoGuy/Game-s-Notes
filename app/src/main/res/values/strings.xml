@@ -1,0 +1,38 @@
+<resources>
+    <string name="hint_time">Before 12:00 the next day</string>
+    <string name="hint_des">12 lamb skins are needed for Gargamel Jr.</string>
+    <string name="hint_point">An ingredient, an item in a task, and more...</string>
+    <string name="name">Name</string>
+    <string name="color">Color:</string>
+    <string name="type">Type:</string>
+    <string name="create_title">Create title</string>
+
+    <string name="app_name">Game\'s Notes</string>
+    <string name="war_title">Delete title?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="gg">#121212</string>
+    <string name="title">Game title</string>
+    <string name="note">Note</string>
+    <string name="create_note">Create note</string>
+    <string name="description">Description:</string>
+    <string name="time">Time:</string>
+    <string name="points">Points:</string>
+    <string name="quest">Quest</string>
+    <string name="location">Location</string>
+    <string name="hero">Hero</string>
+    <string name="loot">Loot</string>
+    <string name="craft">Craft</string>
+    <string name="another_note">Note</string>
+
+    <string name="options">Options</string>
+    <string name="themes">Themes</string>
+    <string name="info">Info</string>
+    <string name="language">Language</string>
+
+    <string name="ru" translatable="false">Русский</string>
+    <string name="eng" translatable="false">English</string>
+
+    <string name="info_strings">Version 1.0,\nPublished: 01.04.2025,\nCreator\'s mail: klimenkoIvan10@yandex.ru</string>
+
+</resources>

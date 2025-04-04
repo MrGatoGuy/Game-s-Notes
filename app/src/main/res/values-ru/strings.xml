@@ -1,0 +1,35 @@
+<resources>
+    <string name="hint_time">До 12:00 следующего дня</string>
+    <string name="hint_des">12 шкурок ягненка для Гаргамеля младшего</string>
+    <string name="hint_point">Ингредиент, элемент в задании и т.д...</string>
+    <string name="name">Имя</string>
+    <string name="color">Цвет:</string>
+    <string name="type">Тип:</string>
+    <string name="create_title">Создание заголовка</string>
+
+    <string name="app_name">Game\'s Notes</string>
+    <string name="war_title">Удалить заголовок?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="gg">#121212</string>
+    <string name="title">Игровой заголовок</string>
+    <string name="note">Заметка</string>
+    <string name="create_note">Создание заметки</string>
+    <string name="description">Описание:</string>
+    <string name="time">Время:</string>
+    <string name="points">Пункты:</string>
+    <string name="quest">Квест</string>
+    <string name="location">Локация</string>
+    <string name="hero">Герой</string>
+    <string name="loot">Лут</string>
+    <string name="craft">Крафт</string>
+    <string name="another_note">Заметка</string>
+
+    <string name="options">Настройки</string>
+    <string name="themes">Темы</string>
+    <string name="info">Информация</string>
+    <string name="language">Языки</string>
+
+    <string name="info_strings">Версия 1.0,\nОпубликовано: 01.04.2025,\nПочта автора: klimenkoIvan10@yandex.ru</string>
+
+</resources>
